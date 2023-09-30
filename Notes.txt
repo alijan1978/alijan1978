@@ -1,0 +1,10 @@
+
+Wrappers are classes that are used with Collection type of data
+
+Boxing : refers to converting a primitive value into a corresponding wrapper object.
+Unboxing: when a wrapper object is unwrapped into a primitive value.
+For example:
+         Integer num = 10; // autoboxing from primitive int to Integer Wrapper type
+         int num1 = num; // auto-unboxing from Wrapper type to primitive int type
+
+
